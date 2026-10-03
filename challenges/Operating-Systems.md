@@ -130,4 +130,5 @@ Write up:
 - [Clevis + TPM2 docs](https://github.com/latchset/clevis)
 - [Secure Boot and MOK explained](https://wiki.ubuntu.com/UEFI/SecureBoot)
 
-
+## Mentor Details
+1. Nischay Bharadwaj Mahesh (Ph. No.: +91 9980543867, GitHub ID: N-tronics)
