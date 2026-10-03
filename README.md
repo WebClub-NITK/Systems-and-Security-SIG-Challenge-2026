@@ -1,5 +1,6 @@
 # Systems-and-Security-SIG-Challenge-2026
 ## Guidelines for submitting the challenge tasks: 
+**NOTE: These tasks are for recruitment of first years into Systems and Security SIG**
 - All tasks are equally valued for the interview selection.
 - You need to work on at least one task for the interview.
 - Completion of tasks is not the only criteria considered. Your effort and interest in learning the concepts are also considered.
@@ -12,3 +13,4 @@
 - For a beginners roadmap to Systems, you can refer to our blog on the Web Club website at https://webclub.nitk.ac.in/blogs/3
 - For more information on what Systems SIG does, you can see https://webclub.nitk.ac.in/blogs/14
 - Contact Ranjit (+91 81239 99357) / Ananya (+91 7483 599 090) for inquiries related to the SIG/recruitments that don’t pertain to any specific task.
+
