@@ -140,3 +140,6 @@ Raw pulse buffer < 64 bytes
 
 The final firmware should demonstrate a **functional, memory-constrained smartwatch engine** with pulse monitoring, power recovery, indicators, and gesture-based controls.
 
+### Mentor Details
+1. Maanya Golash (hyper-mania14, 7975676357)
+2. Abhinav S Rao (ABHINAV-S-RAO, 8660033892)
